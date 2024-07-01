@@ -15,8 +15,8 @@ Welcome to DeepNeuralWorks! This repository contains implementations of deep lea
 ## Usage
 - Each model has its own directory with detailed instructions:
 
-- breast_cancer_prediction/: Predict breast cancer.
-- iris_classification/: Classify iris flowers.
+- breast_cancer_prediction: Predict breast cancer.
+- iris_classification: Classify iris flowers.
 
 ## Contributing
 
