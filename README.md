@@ -7,6 +7,7 @@ Welcome to DeepNeuralWorks! This repository contains implementations of deep lea
 
 - Iris Dataset Classification: Classifying iris flowers into species based on measurements.
 - Breast Cancer Prediction: Predicting breast cancer using diagnostic image features.
+- Bank_Customer_Churn_Prediction: Identifying customers who are likely to leave in the near future.
 
 ## Datasets Used
 - Iris Dataset
@@ -17,6 +18,7 @@ Welcome to DeepNeuralWorks! This repository contains implementations of deep lea
 
 - breast_cancer_prediction: Predict breast cancer.
 - iris_classification: Classify iris flowers.
+- Bank Customer Churn prediction dataset
 
 ## Contributing
 
