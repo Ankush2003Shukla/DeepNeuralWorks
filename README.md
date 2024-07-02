@@ -12,13 +12,14 @@ Welcome to DeepNeuralWorks! This repository contains implementations of deep lea
 ## Datasets Used
 - Iris Dataset
 - Breast Cancer Wisconsin (Diagnostic) Dataset
+- Bank Customer Churn prediction dataset
 
 ## Usage
 - Each model has its own directory with detailed instructions:
 
 - breast_cancer_prediction: Predict breast cancer.
 - iris_classification: Classify iris flowers.
-- Bank Customer Churn prediction dataset
+- Bank_Customer_Churn_Prediction: identifying the leaving customers
 
 ## Contributing
 
